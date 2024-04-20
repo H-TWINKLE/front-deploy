@@ -1,0 +1,14 @@
+{
+  "name": "front-deploy",
+  "version": "0.0.0",
+  "scripts": {
+    "build-deploy": "node deploy.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "compressing": "1.9.0",
+    "ora": "1.2.0",
+    "ssh2": "1.1.0"
+  }
+}
